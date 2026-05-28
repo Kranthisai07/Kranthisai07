@@ -8,10 +8,10 @@
 Graduate Research Assistant · Technical Lead, Applied AI Club @ PNW  
 📍 Hammond, IN
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kranthisaigadi/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_HANDLE)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/YOUR_CHANNEL)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kranthigadi.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-555555?style=flat-square)](https://www.linkedin.com/in/kranthisaigadi/)
+[![Instagram](https://img.shields.io/badge/Instagram-555555?style=flat-square)](https://instagram.com/YOUR_HANDLE)
+[![YouTube](https://img.shields.io/badge/YouTube-555555?style=flat-square)](https://youtube.com/YOUR_CHANNEL)
+[![Website](https://img.shields.io/badge/Website-555555?style=flat-square)](https://kranthigadi.com)
 
 </div>
 
