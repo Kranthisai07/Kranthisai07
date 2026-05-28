@@ -118,9 +118,17 @@ On **Instagram & YouTube**, I break down complex AI concepts so any student can 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kranthisai07&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kranthisai07&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kranthisai07&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Kranthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kranthisai07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
 </div>
 
 <br/>
