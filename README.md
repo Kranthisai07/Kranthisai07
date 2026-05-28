@@ -9,7 +9,7 @@
 
 **MS Applied AI @ Purdue University Northwest** · GPA 4.0 · Graduating Dec 2026  
 Graduate Research Assistant · Technical Lead, Applied AI Club @ PNW  
-📍 Hammond, IN
+📍 Chicago, IL
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-555555?style=flat-square)](https://www.linkedin.com/in/kranthisaigadi/)
